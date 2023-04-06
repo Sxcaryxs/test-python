@@ -24,5 +24,4 @@ print("Tu nombre es ",nombre1)
 
 print("xd")
 
-print("another xd")
 
