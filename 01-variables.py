@@ -22,11 +22,3 @@ nombre1=input("Escribe tu otro nombre \n")
 
 print("Tu nombre es ",nombre1)
 
-print("Bienvenido a la calculadora")
-
-print ("""Ingrese la operacion que quiere realizar: 
- 1-Sumar
- 2-Restar
-""" )
-
-opcion=input("Ingrese opcion: ")
