@@ -27,6 +27,6 @@ print(("La asignatura de ",asignatura,"es parte de la carrera de ",carrera))
 
 #Vectores
 
-estudiantes=["Ignacio""Pedro""Juan""Alonso"]
+estudiantes=["Ignacio","Pedro" ,"Juan" ,"Alonso"]
 
 print(estudiantes)
