@@ -23,3 +23,6 @@ nombre1=input("Escribe tu otro nombre \n")
 print("Tu nombre es ",nombre1)
 
 print("xd")
+
+print("another xd")
+
