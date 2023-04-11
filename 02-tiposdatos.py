@@ -47,7 +47,6 @@ imc=peso / (estatura**2)
 
 print("Mi mci es de: ",imc,"n/")
 
-print("Mi IMC es de {:..2f}".format(imc),"n/")
 
 print("El largo de la palabra",asignatura,"es de: ",len(asignatura))
 print("El largo de la palabra ",carrera,"Es de : ",len(carrera))
@@ -71,4 +70,18 @@ num = [1,2,3,4,5,6]
 
 lenguaje= ["python"]
 
-Lista_mixta = [str("xd"),float(1)]
+Lista_mixta = [str("xd"),int(1)]
+
+print("La lista es : ",Lista_mixta)
+
+data = ['Osorno',{'UV': 'Nivel bajo' , 'Temp °C': 15},(-40.5725,-731353)]
+
+
+print(num.count(6))
+
+print(estudiantes[0])
+print(estudiantes[1])
+print(estudiantes[4])
+print("Posicion -2",estudiantes[-2])
+
+estudiantes[3] = "Gabriela"
