@@ -85,3 +85,29 @@ print(estudiantes[4])
 print("Posicion -2",estudiantes[-2])
 
 estudiantes[3] = "Gabriela"
+
+data_asing = [10023,"Programacion",1,True]
+
+cod,ramo,semestre,estado = data_asing
+
+print (ramo)
+
+#Sumar listas
+
+lista1=[1,2,3,4,5,6,7,8,9,10]
+lista2=["con;",True,100]
+
+print(estudiantes+num)
+
+print(list("Python"))
+print(list(range(10)))
+
+
+grupo1=("Daniel","Cistian","Felipe",200,100,"Daniel")
+
+print(type(grupo1))
+
+print(grupo1[0])
+
+print(grupo1.count("Daniel"))
+
