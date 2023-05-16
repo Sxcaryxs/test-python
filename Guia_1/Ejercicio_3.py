@@ -14,4 +14,4 @@ else:
 p=(a+b+c)/2
 Area=(p*(p-a)*(p-b)*(p-c))**(1/2)
 
-print("Segun la forma de heron el area del triangulo es ",Area)
+print("Segun la forma de herón el area del triangulo es ",Area)
