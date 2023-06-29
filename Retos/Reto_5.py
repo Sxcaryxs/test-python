@@ -2,10 +2,6 @@
 num=int(input("Numero"))
 if num%2==0 :
     print("par")
-    
-        print("Es primo")
-    else:
-        print("No es primo")
 else:
     print("impar")
     if num/num==1 and num%1==0:

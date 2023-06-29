@@ -81,7 +81,6 @@ print(num.count(6))
 
 print(estudiantes[0])
 print(estudiantes[1])
-print(estudiantes[4])
 print("Posicion -2",estudiantes[-2])
 
 estudiantes[3] = "Gabriela"
@@ -98,7 +97,6 @@ lista1=[1,2,3,4,5,6,7,8,9,10]
 lista2=["con;",True,100]
 
 print(estudiantes+num)
-
 print(list("Python"))
 print(list(range(10)))
 
@@ -111,3 +109,7 @@ print(grupo1[0])
 
 print(grupo1.count("Daniel"))
 
+lista3=[1,2,3,4,5,6]
+
+for i in lista3:
+    print(i)
